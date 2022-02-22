@@ -1,10 +1,17 @@
 {
   "name": "ts-project-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A React component library",
- 
   "scripts": {
     "rollup": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehsangorji/react-package.git"
+  },
+  "homepage": "https://github.com/Ehsangorji/react-package.git#readme",
+  "bugs": {
+    "url": "https://github.com/Ehsangorji/react-package/issues"
   },
   "keywords": [],
   "author": "ehsan",
@@ -26,3 +33,5 @@
   ],
   "types": "dist/index.d.ts"
 }
+
+
